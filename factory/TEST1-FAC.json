@@ -1,0 +1,9 @@
+{
+	"name": "TEST1-FAC",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "205bb64c-b2f3-4391-b434-a9de19c52a46",
+		"tenantId": "36da45f1-dd2c-4d1f-af13-5abe46b99921"
+	}
+}
