@@ -56,7 +56,7 @@
 				]
 			},
 			{
-				"name": "Web_Name",
+				"name": "Web_Name_feature",
 				"type": "WebActivity",
 				"dependsOn": [
 					{
