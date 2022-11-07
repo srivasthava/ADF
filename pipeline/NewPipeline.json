@@ -63,7 +63,7 @@
 				]
 			},
 			{
-				"name": "Web1",
+				"name": "Web New name",
 				"type": "WebActivity",
 				"dependsOn": [
 					{
