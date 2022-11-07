@@ -118,7 +118,7 @@
 						]
 					},
 					{
-						"name": "Web_Name",
+						"name": "Web_Name_featur_2",
 						"type": "WebActivity",
 						"dependsOn": [
 							{
